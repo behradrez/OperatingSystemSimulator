@@ -1,0 +1,4 @@
+set hello helloworld
+print hello
+echo how_u_doin
+echo hello
